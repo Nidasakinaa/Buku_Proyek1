@@ -1,5 +1,5 @@
 # Tutorial Mudah Membuat Website Pengelolaan Penyewaan Alat - Alat Catering
-![logo]([img/Cover.Buku.pdf](https://github.com/Nidasakinaa/Buku_Proyek1/blob/main/img/cover.jpg))
+![logo](https://github.com/Nidasakinaa/Buku_Proyek1/blob/249a2f88f23133dfd9d40a42ad910b4a1973c0d3/img/Cover.Buku.pdf))
 
 # Sinopsis
 "Buku ini berisikan tutorial pembuatan website atau aplikasi  pengelolaan penyewaan alat-alat catering yang mudah dipahami dan mencakup tahap pembuatan back-end hingga website atau aplikasi jadi .
